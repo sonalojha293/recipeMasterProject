@@ -1,6 +1,6 @@
 # recipeMasterProject - Spring Boot application to retrieve and store Recipe from backend Database
 
-##Overview
+## Overview
 This Spring Boot application provides a restful API to retrieve the Recipe stored and also allow user to add new Recipe. This application can deployed easily and stores data in MYSQL database 
 
 ## Prerequisites
